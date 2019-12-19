@@ -1,0 +1,41 @@
+{
+    "name": "Monkeypod",
+    "description": "<p>Monkeypod is a cloud-based API design and virtualization tool. It allows developers to collaboratively create HTTP APIs using an intuitive browser-based interface, automatically generating documentation and an in-browser API sandbox. Monkeypod further enables rapid iteration and testing by creating a virtual version of the API that developers can make calls against immediately.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/monkey-pod-logo.png",
+    "tags": [
+        "api service provider",
+        "have api",
+        "virtualizations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/monkeypod\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Monkeypod",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/monkey-pod-logo.png",
+            "humanURL": "https:\/\/monkeypod.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/monkeypod-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Monkeypodio"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/monkeypod.io\/"
+        }
+    ]
+}
